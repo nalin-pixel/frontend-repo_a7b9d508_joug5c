@@ -1,0 +1,10 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+error when starting dev server:
+Error: Port 3000 is already in use
+    at Server.onError (file:///home/workspace/n11:58:07 AM [vite] ✨ new dependencies optimized: lucide-react
+11:58:07 AM [vite] ✨ optimized dependencies changed. reloading
+1976:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
